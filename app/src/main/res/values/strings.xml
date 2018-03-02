@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GLTest</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="no_items_to_show">No items to show</string>
+
+    <string name="err_connect_to_the_internet">Internet connection is unavailable</string>
+    <string name="err_unexpected">An unexpected error occurred. Please try again</string>
+
+</resources>
